@@ -1,5 +1,4 @@
 
-Here's a sample README.md file for your project:
 
 Java Image Upload and QR Code Generator
 This is a web application built using Java, JavaScript, Bootstrap, and MySQL that allows users to upload images, delete uploaded images, and generate QR codes for the uploaded images. The project is developed using Java 8.
